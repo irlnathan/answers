@@ -1,1 +1,1 @@
-test
+[Where do I put my css and javascript assets in sails?](https://github.com/irlnathan/answers/blob/master/answersEp5.markdown)
